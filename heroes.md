@@ -6,4 +6,3 @@
 * Robin. 
 * Batman
 * Linterna Verde
-* Elías
