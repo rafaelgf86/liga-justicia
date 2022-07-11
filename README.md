@@ -2,8 +2,7 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Estos cambios son nuevos desde GH
+## Estos cambios son nuevos desde GH (local)
 1
 2
 3
