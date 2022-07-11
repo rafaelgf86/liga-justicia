@@ -5,7 +5,3 @@
 * Aquaman
 * Mujer Maravilla
 * Linterna Verde
-* Robin. 
-* Flash
-* Rafa
-* Elizaeth
