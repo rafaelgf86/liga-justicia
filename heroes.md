@@ -5,4 +5,3 @@
 * Mujer Maravilla
 * Robin. 
 * Batman
-* Linterna Verde
